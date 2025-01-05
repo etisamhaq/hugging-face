@@ -1,4 +1,3 @@
-# Hugging-Face-Model
 ---
 title: "My MLOps Space"
 emoji: "🚀"
